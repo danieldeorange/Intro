@@ -1,4 +1,4 @@
-### Openeducation / dev JavaScript
+### Open education / dev JavaScript
 
 ## About me 
 <div> 
