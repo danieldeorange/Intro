@@ -1,4 +1,4 @@
-### openeducation / dev frontend.
+### openeducation / dev JavaScript
 
 ## About me 
 <div> 
