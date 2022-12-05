@@ -1,4 +1,4 @@
-### Open education | Dev JavaScript Full Stack
+### Open education | Developer JavaScript Full Stack
 
 ## About me 
 <div> 
